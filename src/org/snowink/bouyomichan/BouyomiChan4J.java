@@ -1,4 +1,4 @@
-package jp.snowink.bouyomichan;
+package org.snowink.bouyomichan;
 
 import java.io.DataOutputStream;
 import java.io.IOException;

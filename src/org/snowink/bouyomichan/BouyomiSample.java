@@ -1,4 +1,4 @@
-import jp.snowink.bouyomichan.BouyomiChan4J;
+package org.snowink.bouyomichan;
 
 public class BouyomiSample {
 
